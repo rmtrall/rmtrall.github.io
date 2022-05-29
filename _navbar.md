@@ -1,4 +1,4 @@
-* Language
-	* [English](English/)
+* Choose Language
+	* [:us: :uk: English](English/)
 	* [:cn: 简体中文](Chinese-simpled/)
-	* [:hk: 繁體中文](Chinese-traditional/)
+	* [:cn: 繁體中文](Chinese-traditional/)
